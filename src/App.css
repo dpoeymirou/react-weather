@@ -4,3 +4,17 @@
   padding: 2rem;
   text-align: center;
 }
+
+.weather-select {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.weather-results {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
